@@ -1,0 +1,74 @@
+[
+	{
+		"name": "name",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "model",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "manufacturer",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "cost_in_credits",
+		"typeSQL": "INT"
+	},
+	{
+		"name": "length",
+		"typeSQL": "FLOAT"
+	},
+	{
+		"name": "max_atmosphering_speed",
+		"typeSQL": "INT"
+	},
+	{
+		"name": "crew",
+		"typeSQL": "INT"
+	},
+	{
+		"name": "passengers",
+		"typeSQL": "INT"
+	},
+	{
+		"name": "cargo_capacity",
+		"typeSQL": "INT"
+	},
+	{
+		"name": "consumables",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "hyperdrive_rating",
+		"typeSQL": "FLOAT"
+	},
+	{
+		"name": "MGLT",
+		"typeSQL": "INT"
+	},
+	{
+		"name": "starship_class",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "pilots",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "films",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "created",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "edited",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "url",
+		"typeSQL": "VARCHAR(255)"
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"name": "name",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "height",
+		"typeSQL": "INT"
+	},
+	{
+		"name": "mass",
+		"typeSQL": "INT"
+	},
+	{
+		"name": "hair_color",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "skin_color",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "eye_color",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "birth_year",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "gender",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "homeworld",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "films",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "species",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "vehicles",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "starships",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "created",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "edited",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "url",
+		"typeSQL": "VARCHAR(255)"
+	}
+]

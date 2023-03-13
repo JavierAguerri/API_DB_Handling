@@ -1,0 +1,58 @@
+[
+	{
+		"name": "title",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "episode_id",
+		"typeSQL": "INT"
+	},
+	{
+		"name": "opening_crawl",
+		"typeSQL": "TEXT"
+	},
+	{
+		"name": "director",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "producer",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "release_date",
+		"typeSQL": "DATE"
+	},
+	{
+		"name": "characters",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "planets",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "starships",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "vehicles",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "species",
+		"typeSQL": "JSON"
+	},
+	{
+		"name": "created",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "edited",
+		"typeSQL": "VARCHAR(255)"
+	},
+	{
+		"name": "url",
+		"typeSQL": "VARCHAR(255)"
+	}
+]
