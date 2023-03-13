@@ -12,6 +12,6 @@ Solve some queries:
 - Display the list of films to allow selecting a group of them, once selected, find out who is the person piloting the ship that appears the most in those films.
 
 ## Usage
-Install Java 17
-Run ./install.sh
-Run ./run.sh
+- Install Java 17
+- Run ./install.sh
+- Run ./run.sh
